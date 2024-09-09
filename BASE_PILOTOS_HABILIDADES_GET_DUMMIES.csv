@@ -1,0 +1,14 @@
+idade,salario,bonus,ranking,nome_AYRTON SENNA,nome_EMERSON FITTIPALDI,nome_JENSON BUTTON,nome_JOS VERSTAPPEN,nome_JOSE CARLOS PACE,nome_LEWIS HAMILTON,nome_MAX VERSTAPPEN,nome_MICHAEL SCHUMACHER,nome_NELSON PIQUET,nome_NICO ROSBERG,nome_NIGEL MANSELL,nome_RUBENS BARRICHELLO,nome_SEBASTIAN VETTEL,naturalidade_FROME,naturalidade_HASSELT,naturalidade_HEPPENHEIN,naturalidade_HURTH,naturalidade_MONTFORT,naturalidade_RIO DE JANEIRO,naturalidade_SAO PAULO,naturalidade_STEVENAGE,naturalidade_UPTON-UPON-SEVERN,naturalidade_WIESBADEN,equipe_BENNETTON,equipe_ENSIGN,equipe_JORDAN,equipe_LOTUS,equipe_MCLAREN,equipe_SAUBER,equipe_TOLEMAN,equipe_TORO ROSSO,equipe_WILLIAMS,equipe_WILLYS,pais_ALEMANHA,pais_BELGICA,pais_BRASIL,pais_HOLANDA,pais_INGLATERRA,cut_right_false_100_172,cut_right_false_172_245,cut_right_false_245_317,cut_right_false_317_390,habilidades_bom,habilidades_mais que bom,habilidades_otimo,habilidades_sensacional
+78,390000,39000,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0
+76,380000,38000,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+70,350000,35000,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+69,276000,19320,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+62,310000,31000,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+53,212000,14840,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1
+50,250000,17500,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+50,250000,17500,8,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+42,210000,14700,9,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+37,148000,7400,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+37,148000,7400,11,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+35,140000,7000,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+25,100000,5000,13,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
